@@ -1,4 +1,4 @@
-// Simple test program for service provider framework
+// Simple test program for service provider framework, david
 package org.effectivejava.examples.chapter02.item01;
 
 public class Test {
